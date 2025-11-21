@@ -57,6 +57,8 @@ Link para o protótipo (CreativeTim): https://www.creative-tim.com/product/mater
 
 ### 5. REFERÊNCIAS
 
+1. Creative Tim (Template de Design)
+ 
 CREATIVE TIM. Nome Específico do Template. [Ano da aquisição/download]. Disponível em: [Link específico para o template]. Acesso em: 21 nov. 2025.
 
 2. Referências Técnicas (Vídeos do YouTube)
@@ -66,8 +68,3 @@ FERNANDA KIPPER. YouTube. Disponível em: https://www.youtube.com/@kipperdev. Ac
 
 Canal Alexandre Leutz:
 LEUTZ, Alexandre. YouTube. Disponível em: https://www.youtube.com/@AlexandreLeutz. Acesso em: 2025.
-
-
-# CSI606-2025 - PetCare
-
-## Milliany Rodrigues de Morais

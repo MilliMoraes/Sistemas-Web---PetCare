@@ -2,7 +2,7 @@
 
 ## *Milliany Rodrigues de Morais*
 
-## *Título Proposto: Plataforma Digital de Suporte e Bem-Estar Animal: Pet Care Info – Um Guia Essencial para Tutores*
+## *Título: Plataforma Digital de Suporte e Bem-Estar Animal: Pet Care Info – Um Guia Essencial para Tutores*
 
 ### RESUMO
 

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **Sistemas-Web---PetCare**
 
 ## *Milliany Rodrigues de Morais*

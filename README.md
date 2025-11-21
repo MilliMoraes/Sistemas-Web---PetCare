@@ -68,9 +68,6 @@ Canal Alexandre Leutz:
 LEUTZ, Alexandre. YouTube. Disponível em: https://www.youtube.com/@AlexandreLeutz. Acesso em: 2025.
 
 
-
-=======
 # CSI606-2025 - PetCare
 
 ## Milliany Rodrigues de Morais
->>>>>>> aacf392113e72b80055abe8d87ed9dc07f8d52b5
